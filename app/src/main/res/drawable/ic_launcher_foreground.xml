@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Amber ring: radius 23.4 centered at (54, 54), strokeWidth 3.0 -->
+    <path
+        android:strokeColor="#ffb703"
+        android:strokeWidth="3.0"
+        android:fillColor="#00000000"
+        android:pathData="M54,30.6 A23.4,23.4 0 1,1 53.99,30.6 Z" />
+
+    <!-- Six white aperture blades (opacity 0.93) rotated 60 deg apart -->
+    <path
+        android:fillColor="#ffffff"
+        android:fillAlpha="0.93"
+        android:pathData="M54.00,34.20L69.00,49.80L54.00,54.00z" />
+    <path
+        android:fillColor="#ffffff"
+        android:fillAlpha="0.93"
+        android:pathData="M71.15,44.10L65.14,64.89L54.00,54.00z" />
+    <path
+        android:fillColor="#ffffff"
+        android:fillAlpha="0.93"
+        android:pathData="M71.15,63.90L50.14,69.09L54.00,54.00z" />
+    <path
+        android:fillColor="#ffffff"
+        android:fillAlpha="0.93"
+        android:pathData="M54.00,73.80L39.00,58.20L54.00,54.00z" />
+    <path
+        android:fillColor="#ffffff"
+        android:fillAlpha="0.93"
+        android:pathData="M36.85,63.90L42.86,43.11L54.00,54.00z" />
+    <path
+        android:fillColor="#ffffff"
+        android:fillAlpha="0.93"
+        android:pathData="M36.85,44.10L57.86,38.91L54.00,54.00z" />
+</vector>

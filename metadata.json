@@ -1,0 +1,6 @@
+{
+  "name": "Lens",
+  "description": "Native Android camera app reproducing the identity, design looks, and features of Lens with real filters, gallery, and settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
